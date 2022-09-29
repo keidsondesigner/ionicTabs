@@ -1,0 +1,7 @@
+{
+  "name": "testeNovo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
