@@ -1,8 +1,8 @@
 import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'io.ionic.starter',
-  appName: 'testeNovo',
+  appId: 'com.keidson.testNovo',
+  appName: 'Teste Novo',
   webDir: 'www',
   bundledWebRuntime: false
 };
